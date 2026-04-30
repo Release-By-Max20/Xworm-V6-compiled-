@@ -1,6 +1,6 @@
 # Xworm-V6-compiled-
 
-# 🔐 XWorm V6 Compiled -- Overview, Features & Security Analysis (2026 Guide)
+# 🔐 XWorm V6 Compiled -- Overview, Features (2026 Guide)
 
 ## 📄 Overview
 
